@@ -1,0 +1,2 @@
+# SQL-Tableau-Movie-Project
+This is a project where I analyzed various different movies from a kaggle data set: https://www.kaggle.com/preetviradiya/imdb-movies-ratings-details. I utilized SQL to clean and pull the data into clean queries where I then went on to create visualizations of the data in Tableau. All of this will be shown in this repository. Here is an interactive link of the Tableau:  https://public.tableau.com/app/profile/wyatt.salinas/viz/MovieProject-WyattSalinas/Dashboard1
